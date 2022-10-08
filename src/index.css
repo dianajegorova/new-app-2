@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+.btn {
+  padding: 5px 10px;
+  font-size: 18px;
+}
+
+.remove {
+  outline: none;
+  border: none;
+  background-color: white;
+  text-decoration: underline;
+  color: rgb(110, 110, 209);
+  padding: 15px;
+}
+
+span {
+  padding: 15px;
+}
